@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string>com.kevinwaugh.mock</string>
+	<string>com.keivaun.mock</string>
 	<key>category</key>
 	<string>Tools</string>
 	<key>connections</key>
@@ -23,7 +23,7 @@
 		</array>
 	</dict>
 	<key>createdby</key>
-	<string>Kevin Waugh</string>
+	<string>Keivaun Waugh</string>
 	<key>description</key>
 	<string>Creates Spongebob mocking text</string>
 	<key>disabled</key>
